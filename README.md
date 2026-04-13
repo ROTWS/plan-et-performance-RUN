@@ -142,7 +142,7 @@ Sans clé, l'appli propose un mode saisie manuelle qui fonctionne parfaitement.
 
 ## Obtenir l'accès Premium
 
-👉 **[Acheter mon accès — 12€](https://gumroad.com)** *(lien à personnaliser)*
+👉 **[Acheter mon accès — 5€](https://gumroad.com)** *(lien à personnaliser)*
 
 Un seul achat. Accès à vie. Aucune donnée collectée.
 
